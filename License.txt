@@ -1,0 +1,26 @@
+Save ✅
+
+---
+
+# 🚫 2️⃣ .gitignore (VERY IMPORTANT)
+
+Create a file named **`.gitignore`** (no extension) and paste:
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+
+# Database
+*.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
