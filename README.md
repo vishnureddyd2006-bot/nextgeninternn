@@ -9,7 +9,7 @@ Instead of searching endlessly for internships, students can generate **structur
 - User Signup & Login
 - Student Dashboard
 - Domain Selection (Web / Python / AI/Data science/Cyber security)
-- AI-generated 4-week internship plans
+- AI-generated 4-8week internship plans
 - Simple & beginner-friendly Flask architecture
 
 ---
